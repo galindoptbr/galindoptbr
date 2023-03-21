@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**galindoptbr/galindoptbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ # Hello, it's me Galindo! 🖐
+ <br/>
 
-Here are some ideas to get you started:
+#### I study programmation to entry in the job market. I am very persistent and focus. I wanna make a new story in my life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galindoptbr/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCo2vr74YfOdWnu9jAAj9s5g)
+[![YouTube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/galindoptbr/)
+
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galindoptbr&show_icons=true&theme=react"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galindoptbr&layout=compact&langs_count=16&theme=react"/>
+</div><br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=galindoptbr&bg_color=0d1116&color=57bcd9&line=57bcd9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Studying in this moment:
+
+
+<div style="display: inlineb-lock"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div><br>
+
+
