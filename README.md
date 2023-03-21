@@ -1,6 +1,5 @@
 
  # Hello, it's me Galindo! 🖐
- <br/>
 
 #### I study programmation to entry in the job market. I am very persistent and focus. I wanna make a new story in my life.
 
