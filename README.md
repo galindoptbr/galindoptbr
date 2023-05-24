@@ -12,7 +12,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galindoptbr&layout=compact&langs_count=16&theme=github_dark"/>
 </div><br>
 
-[![Ashutosh's github activity graph]("https://github-readme-activity-graph.cyclic.app/graph?username=galindoptbr&theme=github_dark")](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=galindoptbr&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Studying in this moment:
 
